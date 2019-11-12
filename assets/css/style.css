@@ -1,7 +1,32 @@
-#jumbo-bkg {
-    background-image: url(../images/michal-parzuchowski-dmH3NWhYTHQ-unsplash.jpg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    color: whitesmoke;
+body {
+    background-color: rgb(13, 13, 90);
+}
 
+#newTrain {
+    border: 1px solid rgb(38, 5, 99);
+    padding: 25px;
+    background-color: white;
+}
+
+#currentTrains {
+    border: 1px solid  rgb(38, 5, 99);
+    padding: 25px;
+    background-color: white;
+    margin-bottom: 4%;
+}
+
+
+
+#newRow {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(12, 12, 116)
+}
+.form-group{
+    color: rgb(12, 12, 116)
+}
+btn-info {
+    color: rgb(12, 12, 116);
 }
